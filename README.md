@@ -1,5 +1,5 @@
 # Help-India-Breathe
-A simple website created with HTML5 and CSS3 integrated with RazorPay as its Payment Gateway
+A webpage created with the intentions of procuring donations for the Oxygen shortage in the countrys various hospitals.
 
 This project is made under Graduate Rotational Internship Program (GRIP) at The Sparks Foundation (TSF).
 
