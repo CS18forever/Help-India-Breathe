@@ -7,3 +7,7 @@ Domain - Web Development.
 
 Task #3 - Payment Gateway Integration.
 
+#Technology Used
+Front-end: HTML5, CSS3
+Payment Gateway: Razorpay
+Web Hosting: 000Webhost
