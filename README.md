@@ -1,5 +1,5 @@
 # Help-India-Breathe
-A webpage created with the intentions of procuring donations for the Oxygen shortage in the countrys various hospitals.
+A webpage created with the intentions of procuring donations for the Oxygen shortage in the country's various hospitals.
 
 This project is made under Graduate Rotational Internship Program (GRIP) at The Sparks Foundation (TSF).
 
